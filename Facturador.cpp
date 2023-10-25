@@ -6,19 +6,18 @@ Programa de facturas
 #include <string>
 using namespace std;
 int ope;
-
 int main(){
 
 
 	cout<<"============================================" << endl;
 	cout<<"============================================" << endl;
-	cout<<"¡Bienvenido, al Facturador " << endl;
+	cout<<"Â¡Bienvenido, al Facturador " << endl;
 	cout<<"Que Operacion Quieres Realizar " << endl;
-	cout<<"1.¡Clientes! "<< endl;
-    cout<<"2.¡Productos! "<< endl;
-    cout<<"3.¡Ventas! "<< endl;
-    cout<<"4.¡inventario! "<< endl;
-    cout<<"5. ¡Proveedores! "<< endl;
+	cout<<"1.Â¡Clientes! "<< endl;
+    cout<<"2.Â¡Productos! "<< endl;
+    cout<<"3.Â¡Ventas! "<< endl;
+    cout<<"4.Â¡inventario! "<< endl;
+    cout<<"5. Â¡Proveedores! "<< endl;
 	cin>>ope;
 	cout<<"============================================" << endl;
 	cout<<"============================================" << endl;
